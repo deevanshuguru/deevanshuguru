@@ -8,18 +8,19 @@
 -->
 <p align='center'>
 <a href="https://dev.to/deevanshuguru"><img height="30" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/dev.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/deevanshu_guru/"><img height="30" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/deevanshu_guru"><img height="30" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/instagram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/deevanshuguru/"><img height="30" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/linkedin.png?raw=true"></a>
-<a href="https://www.facebook.com/deevanshu.guru/"><img height="30" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/facebook.png?raw=true"></a>
+<a href="https://twitter.com/deevanshu_guru/"><img height="35" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/deevanshu_guru"><img height="35" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/deevanshuguru/"><img height="35" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/linkedin.png?raw=true"></a>
+<a href="https://www.facebook.com/deevanshu.guru/"><img height="35" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/facebook.png?raw=true"></a>
 </p>
 
+<div align="center">
 
 [![Visits Badge](https://badges.pufler.dev/visits/deevanshuguru/deevanshuguru)](http://homepages.iitb.ac.in/~deevanshu/)
 [![Years Badge](https://badges.pufler.dev/years/deevanshuguru)](http://homepages.iitb.ac.in/~deevanshu/)
 [![Repos Badge](https://badges.pufler.dev/repos/deevanshuguru)](http://homepages.iitb.ac.in/~deevanshu/)
-[![Repos Badge](https://badges.pufler.dev/gists/deevanshuguru)](http://homepages.iitb.ac.in/~deevanshu/)
 
+</div>
 
 
 # Blogs posts
@@ -35,7 +36,7 @@ When I'm not developing and building things, you can find me on Basketball court
 
 <h4 align="center"> I've started working on open source recently, that's why all my repositories are private but if you want to see them then ping me on any of the above mentioned platforms ♥</h4>
 <br>
-<img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/geek.gif" alt="geek" style="vertical-align:top; margin:4px"> 
+<img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/geek.gif" alt="geek" style="height:100px; margin:4px"> 
 
 
 # Skills
@@ -97,7 +98,7 @@ When I'm not developing and building things, you can find me on Basketball court
 </p>
 <div align="center"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></div>
 <br>
-<img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/source.gif" alt="" style="height:200px; margin:4px"> 
+<img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/source.gif" alt="" style="height:100px; margin:4px"> 
 
 <br> 
 
