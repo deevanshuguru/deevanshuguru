@@ -29,11 +29,11 @@
 
 
 <h2 align="center">Yo! 🤟🏼 <br>  I am Deevanshu Guru. </h2>
-<h4 align="center" width="70%">I'm a Full Stack Web Developer, Blockchains Developer, Content Creator and Cybersecurity Enthusiast from IIT Bombay,India.
+<h4 align="center" width="70vw">I'm a Full Stack Web Developer, Blockchains Developer, Content Creator and Cybersecurity Enthusiast from IIT Bombay,India.
 I'm also currently doing my BTech in Engineering Physics while working on my company and other projects.
 I am currently passionate about Quantum Cryptography, Progressive Web Apps, Algotrading, IDS, Neural Nets, Web Performance, Blogging and Automation.
 When I'm not developing and building things, you can find me on Basketball court, drawing a sketch, making memes😜😜, and much more.<br> Let's meet online and share our ideas and wisdom 🤗</h5>
-<img width="30%" src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/geek.gif" alt="geek" style="height:100px; margin:4px"> 
+<img width="25vw" src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/geek.gif" alt="geek" style="height:100px; margin:4px"> 
 
 <h4 align="center"> I've started working on open source recently, that's why all my repositories are private but if you want to see them then ping me on any of the above mentioned platforms ♥</h4>
 <br>
