@@ -28,8 +28,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<h3 align="center">Yo! 🤟🏼 <br>  I am Deevanshu Guru. </h2>
-<h5 align="center">I'm a Full Stack Web Developer, Blockchains Developer, Content Creator and Cybersecurity Enthusiast from IIT Bombay,India.
+<h2 align="center">Yo! 🤟🏼 <br>  I am Deevanshu Guru. </h2>
+<h4 align="center">I'm a Full Stack Web Developer, Blockchains Developer, Content Creator and Cybersecurity Enthusiast from IIT Bombay,India.
 I'm also currently doing my BTech in Engineering Physics while working on my company and other projects.
 I am currently passionate about Quantum Cryptography, Progressive Web Apps, Algotrading, IDS, Neural Nets, Web Performance, Blogging and Automation.
 When I'm not developing and building things, you can find me on Basketball court, drawing a sketch, making memes😜😜, and much more.<br> Let's meet online and share our ideas and wisdom 🤗</h5>
@@ -40,7 +40,7 @@ When I'm not developing and building things, you can find me on Basketball court
 
 
 # Skills
-<h4 align="center"> Languages </h4>
+<h3 align="center"> Languages </h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
@@ -51,7 +51,7 @@ When I'm not developing and building things, you can find me on Basketball court
 <img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:4px"> 
 </p>
 <br> 
-<h4 align="center"> Frameworks </h4>
+<h3 align="center"> Frameworks </h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:4px">
@@ -65,7 +65,7 @@ When I'm not developing and building things, you can find me on Basketball court
 </p>
 <br> 
 
-<h4 align="center"> Tools </h4>
+<h3 align="center"> Tools </h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/svg/dev/tools/android_studio_colour.svg" alt="android_studio_colour.svg" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/svg/dev/tools/bash.svg" alt="bash.svg" style="vertical-align:top; margin:4px">
@@ -78,7 +78,7 @@ When I'm not developing and building things, you can find me on Basketball court
 </p>
 <br> 
 
-<h4 align="center"> Miscellaneous </h4>
+<h3 align="center"> Miscellaneous </h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/svg/dev/misc/ai.svg" alt="ai.svg" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/svg/dev/misc/cloud.svg" alt="cloud.svg" style="vertical-align:top; margin:4px">
@@ -98,6 +98,7 @@ When I'm not developing and building things, you can find me on Basketball court
 </p>
 <div align="center"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></div>
 <br>
+<br>
 <img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/source.gif" alt="" style="height:100px; margin:4px"> 
 
 <br> 
@@ -107,6 +108,8 @@ When I'm not developing and building things, you can find me on Basketball court
 
 # Github Report
 
+
+<br>
 <div align="center">
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=deevanshuguru&repo=marcos&show_icons=true&theme=blue-green)](https://github.com/deevanshuguru/github-readme-stats)
