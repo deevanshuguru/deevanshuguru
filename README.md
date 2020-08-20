@@ -7,11 +7,11 @@
 -social media icons
 -->
 <p align='center'>
-<a href="https://dev.to/deevanshuguru"><img height="30" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/dev.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/deevanshu_guru/"><img height="35" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/deevanshu_guru"><img height="35" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/instagram.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/deevanshuguru/"><img height="35" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/linkedin.png?raw=true"></a>
-<a href="https://www.facebook.com/deevanshu.guru/"><img height="35" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/facebook.png?raw=true"></a>
+<a href="https://dev.to/deevanshuguru"><img height="32" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/dev.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/deevanshu_guru/"><img height="42" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/deevanshu_guru"><img height="38" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/deevanshuguru/"><img height="45" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/linkedin.png?raw=true"></a>
+<a href="https://www.facebook.com/deevanshu.guru/"><img height="40" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/facebook.png?raw=true"></a>
 </p>
 
 <div align="center">
@@ -23,7 +23,9 @@
 </div>
 
 
-# Blogs posts
+<!--
+- # Blog Posts
+-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
