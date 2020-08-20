@@ -30,7 +30,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<h2 align="center">Yo! 🤟🏼 <br>  I am Deevanshu Guru. </h2>
+<h2 align="center">Yo! 🤟🏼 <br>  I am Deevanshu Guru </h2>
 <img width="25%" align="right" src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/geek.gif" alt="geek" style="height:100px; margin:4px">
 <h4 align="center" width="70vw">I'm a Full Stack Web Developer, Blockchains Developer, Content Creator and Cybersecurity Enthusiast from IIT Bombay,India.
 I'm also currently doing my BTech in Engineering Physics while working on my company and other projects.
