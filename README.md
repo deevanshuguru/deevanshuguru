@@ -16,8 +16,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=deevanshuguru" alt="deevanshuguru" /> </p>
 
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div align='center' class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="deevanshuguru"><a class="LI-simple-link" href='https://in.linkedin.com/in/deevanshuguru?trk=profile-badge'>Deevanshu Guru</a></div>
 
 
 # Blogs posts
@@ -25,7 +23,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<h3 align="center">Yo! 🤟🏼   I am Deevanshu Guru. </h2>
+<h3 align="center">Yo! 🤟🏼 <br>  I am Deevanshu Guru. </h2>
 <p align="center">I'm a Full Stack Web Developer, Blockchains Developer, Content Creator and Cybersecurity Enthusiast from IIT Bombay,India.
 I'm also currently doing my BTech in Engineering Physics while working on my company and other projects.
 I am currently passionate about Quantum Cryptography, Progressive Web Apps, Algotrading, IDS, Neural Nets, Web Performance, Blogging and Automation.
