@@ -13,8 +13,12 @@
 <a href="https://www.linkedin.com/in/deevanshuguru/"><img height="30" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/linkedin.png?raw=true"></a>
 <a href="https://www.facebook.com/deevanshu.guru/"><img height="30" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/facebook.png?raw=true"></a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=deevanshuguru" alt="deevanshuguru" /> </p>
 
+
+[![Visits Badge](https://badges.pufler.dev/visits/deevanshuguru/deevanshuguru)](http://homepages.iitb.ac.in/~deevanshu/)
+[![Years Badge](https://badges.pufler.dev/years/deevanshuguru)](http://homepages.iitb.ac.in/~deevanshu/)
+[![Repos Badge](https://badges.pufler.dev/repos/deevanshuguru)](http://homepages.iitb.ac.in/~deevanshu/)
+[![Repos Badge](https://badges.pufler.dev/gists/deevanshuguru)](http://homepages.iitb.ac.in/~deevanshu/)
 
 
 
@@ -29,9 +33,9 @@ I'm also currently doing my BTech in Engineering Physics while working on my com
 I am currently passionate about Quantum Cryptography, Progressive Web Apps, Algotrading, IDS, Neural Nets, Web Performance, Blogging and Automation.
 When I'm not developing and building things, you can find me on Basketball court, drawing a sketch, making memes😜😜, and much more.<br> Let's meet online and share our ideas and wisdom 🤗</h5>
 
-<h5 align="center"> I've started working on open source recently, that's why all my repositories are private but if you want to see them then ping me on any of the above mentioned platforms ♥</h5>
+<h4 align="center"> I've started working on open source recently, that's why all my repositories are private but if you want to see them then ping me on any of the above mentioned platforms ♥</h4>
 <br>
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/YQitE4YNQNahy" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/YQitE4YNQNahy">via GIPHY</a></p>
+<img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/geek.gif" alt="geek" style="vertical-align:top; margin:4px"> 
 
 
 # Skills
@@ -90,8 +94,11 @@ When I'm not developing and building things, you can find me on Basketball court
 <img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px"> 
 <img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:4px"> 
 <img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px"> 
-
 </p>
+<div align="center"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></div>
+<br>
+<img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/source.gif" alt="r" style="vertical-align:top; margin:4px"> 
+
 <br> 
 
 #Github Report
