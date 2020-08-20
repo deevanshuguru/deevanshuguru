@@ -24,10 +24,10 @@
 
 
 <h3 align="center">Yo! 🤟🏼 <br>  I am Deevanshu Guru. </h2>
-<p align="center">I'm a Full Stack Web Developer, Blockchains Developer, Content Creator and Cybersecurity Enthusiast from IIT Bombay,India.
+<h5 align="center">I'm a Full Stack Web Developer, Blockchains Developer, Content Creator and Cybersecurity Enthusiast from IIT Bombay,India.
 I'm also currently doing my BTech in Engineering Physics while working on my company and other projects.
 I am currently passionate about Quantum Cryptography, Progressive Web Apps, Algotrading, IDS, Neural Nets, Web Performance, Blogging and Automation.
-When I'm not developing and building things, you can find me on Basketball court, drawing a sketch, making memes😜😜, and much more.<br> Let's meet online and share our ideas and wisdom 🤗</p>
+When I'm not developing and building things, you can find me on Basketball court, drawing a sketch, making memes😜😜, and much more.<br> Let's meet online and share our ideas and wisdom 🤗</h5>
 
 <h5 align="center"> I've started working on open source recently, that's why all my repositories are private but if you want to see them then ping me on any of the above mentioned platforms ♥</h5>
 <br>
@@ -35,7 +35,7 @@ When I'm not developing and building things, you can find me on Basketball court
 
 
 # Skills
-<h5 align="center"> Languages </h5>
+<h4 align="center"> Languages </h4>
 <p align="center">
 <img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
@@ -46,7 +46,7 @@ When I'm not developing and building things, you can find me on Basketball court
 <img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:4px"> 
 </p>
 <br> 
-<h5 align="center"> Frameworks </h5>
+<h4 align="center"> Frameworks </h4>
 <p align="center">
 <img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/svg/dev/frameworks/laravel.svg" alt="laravel" style="vertical-align:top; margin:4px">
@@ -60,7 +60,7 @@ When I'm not developing and building things, you can find me on Basketball court
 </p>
 <br> 
 
-<h5 align="center"> Tools </h5>
+<h4 align="center"> Tools </h4>
 <p align="center">
 <img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/svg/dev/tools/android_studio_colour.svg" alt="android_studio_colour.svg" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/svg/dev/tools/bash.svg" alt="bash.svg" style="vertical-align:top; margin:4px">
@@ -73,7 +73,7 @@ When I'm not developing and building things, you can find me on Basketball court
 </p>
 <br> 
 
-<h5 align="center"> Miscellaneous </h5>
+<h4 align="center"> Miscellaneous </h4>
 <p align="center">
 <img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/svg/dev/misc/ai.svg" alt="ai.svg" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/svg/dev/misc/cloud.svg" alt="cloud.svg" style="vertical-align:top; margin:4px">
