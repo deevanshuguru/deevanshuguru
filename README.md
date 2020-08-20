@@ -101,21 +101,24 @@ When I'm not developing and building things, you can find me on Basketball court
 
 <br> 
 
+
+
+
 #Github Report
 
-<p align="center">
+<div align="center">
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=deevanshuguru&repo=marcos&show_icons=true&theme=blue-green)](https://github.com/deevanshuguru/github-readme-stats)
 
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
 
 ![Deevanshu_Guru's Github Stats](https://github-readme-stats.vercel.app/api?username=deevanshuguru&show_icons=true&theme=blue-green)
 
-</p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deevanshuguru&layout=compact&show_icons=true&theme=blue-green)](https://github.com/deevanshuguru/github-readme-stats)
 
+
+</div>
 
