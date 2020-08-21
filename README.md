@@ -115,8 +115,8 @@ When I'm not developing and building things, you can find me on Basketball court
 <br>
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=deevanshuguru&repo=marcos&show_icons=true&theme=blue-green)](http://homepages.iitb.ac.in/~deevanshu/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=deevanshuguru&repo=Codeforces-Solutions&show_icons=true&theme=blue-green)](http://homepages.iitb.ac.in/~deevanshu/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=deevanshuguru&repo=marcos&show_icons=true&theme=blue-green)](https://github.com/deevanshuguru/marcos)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=deevanshuguru&repo=Codeforces-Solutions&show_icons=true&theme=blue-green)](https://github.com/deevanshuguru/Codeforces-Solutions)
 
 </div>
 
