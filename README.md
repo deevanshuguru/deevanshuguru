@@ -8,10 +8,10 @@
 -->
 <p align='center'>
 <a href="https://dev.to/deevanshuguru"><img height="32" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/dev.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/deevanshu_guru/"><img height="42" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/deevanshu_guru"><img height="38" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/instagram.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/deevanshu_guru/"><img height="45" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/deevanshu_guru"><img height="40" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/instagram.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/deevanshuguru/"><img height="45" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/linkedin.png?raw=true"></a>
-<a href="https://www.facebook.com/deevanshu.guru/"><img height="40" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/facebook.png?raw=true"></a>
+<a href="https://www.facebook.com/deevanshu.guru/"><img height="45" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/facebook.png?raw=true"></a>
 </p>
 
 <div align="center">
@@ -32,13 +32,13 @@
 
 <h2 align="center">Yo! 🤟🏼 <br>  I am Deevanshu Guru </h2>
 <img width="25%" align="right" src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/geek.gif" alt="geek" style="height:100px; margin:4px">
-<h4 align="center" width="70vw">I'm a Full Stack Web Developer, Blockchains Developer, Content Creator and Cybersecurity Enthusiast from IIT Bombay,India.
-I'm also currently doing my BTech in Engineering Physics while working on my company and other projects.
-I am currently passionate about Quantum Cryptography, Progressive Web Apps, Algotrading, IDS, Neural Nets, Web Performance, Blogging and Automation.
+<h4 align="center" width="70vw">I'm a <u>Full Stack Web Developer, Blockchains Developer, Content Creator and Cybersecurity Enthusiast</u> from <b>IIT Bombay,India</b>.
+ I'm also currently doing my BTech in <b>Engineering Physics</b> while working on my company and other projects.
+I am currently passionate about <u>Quantum Cryptography, Progressive Web Apps, Algotrading, IDS, Neural Nets, Web Performance, Blogging and Automation</b>.
 When I'm not developing and building things, you can find me on Basketball court, drawing a sketch, making memes😜😜, and much more.<br> Let's meet online and share our ideas and wisdom 🤗</h5>
  
 
-<h4 align="center"> I've started working on open source recently, that's why all my repositories are private but if you want to see them then ping me on any of the above mentioned platforms ♥</h4>
+<h4 align="center"> <u>I've started working on open source recently, that's why all my repositories are private but if you want to see them then ping me on any of the above mentioned platforms ♥</u></h4>
 <br>
 
 
@@ -115,8 +115,8 @@ When I'm not developing and building things, you can find me on Basketball court
 <br>
 <div align="center">
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=deevanshuguru&repo=marcos&show_icons=true&theme=blue-green)](https://github.com/deevanshuguru/github-readme-stats)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=deevanshuguru&repo=marcos&show_icons=true&theme=blue-green)](http://homepages.iitb.ac.in/~deevanshu/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=deevanshuguru&repo=Codeforces-Solutions&show_icons=true&theme=blue-green)](http://homepages.iitb.ac.in/~deevanshu/)
 
 </div>
 
@@ -124,7 +124,7 @@ When I'm not developing and building things, you can find me on Basketball court
 
 ![Deevanshu_Guru's Github Stats](https://github-readme-stats.vercel.app/api?username=deevanshuguru&show_icons=true&theme=blue-green)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deevanshuguru&layout=compact&show_icons=true&theme=blue-green)](https://github.com/deevanshuguru/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deevanshuguru&layout=compact&show_icons=true&theme=blue-green)](http://homepages.iitb.ac.in/~deevanshu/)
 
 
 </div>
