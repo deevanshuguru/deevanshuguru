@@ -129,6 +129,7 @@ When I'm not developing and building things, you can find me on Basketball court
 
 </div>
 
+<!--
 # Available Themes
 
 With inbuilt themes you can customize the look of the card without doing any manual customization.
@@ -245,5 +246,6 @@ Use `?theme=THEME_NAME` parameter like so :-
 [vue-dark_repo]: https://github-readme-stats.vercel.app/api/pin/?username=deevanshuguru&repo=marcos&cache_seconds=86400&theme=vue-dark
 [ayu-mirage_repo]: https://github-readme-stats.vercel.app/api/pin/?username=deevanshuguru&repo=marcos&cache_seconds=86400&theme=ayu-mirage
 [calm_repo]: https://github-readme-stats.vercel.app/api/pin/?username=deevanshuguru&repo=marcos&cache_seconds=86400&theme=calm
+-->
 
 
