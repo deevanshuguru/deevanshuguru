@@ -105,8 +105,9 @@ When I'm not developing and building things, you can find me on Basketball court
 <div align="center"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></div>
 <br>
 <br>
+<!--
 <img src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/source.gif" alt="" style="height:100px; margin:4px"> 
-
+-->
 <br> 
 
 
