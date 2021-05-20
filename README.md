@@ -1,7 +1,8 @@
+<!-- 
 <p align='center'>
 <a href="http://homepages.iitb.ac.in/~deevanshu/"><img height="300" src="https://github.com/deevanshuguru/deevanshuguru/blob/master/images/carry.png"></img></a>
 </p>
-
+-->
 
 <!--
 -social media icons
@@ -31,7 +32,9 @@
 
 
 <h2 align="center">Yo! 🤟🏼 <br>  I am Deevanshu Guru </h2>
+<!--
 <img width="25%" align="right" src="https://raw.githubusercontent.com/deevanshuguru/deevanshuguru/master/images/geek.gif" alt="geek" style="height:100px; margin:4px">
+-->
 <h4 align="center" width="70vw">I'm a <u>Full Stack Web Developer, Blockchains Developer, Content Creator and Cybersecurity Enthusiast</u> from <b>IIT Bombay,India</b>.
  I'm also currently doing my BTech in <b>Engineering Physics</b> while working on my company and other projects.
 I am currently passionate about <u>Quantum Cryptography, Progressive Web Apps, Algotrading, IDS, Neural Nets, Web Performance, Blogging and Automation</b>.
