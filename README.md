@@ -120,7 +120,7 @@ When I'm not developing and building things, you can find me on Basketball court
 <div align="center">
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=deevanshuguru&repo=marcos&show_icons=true&theme=blue-green)](https://github.com/deevanshuguru/marcos)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=deevanshuguru&repo=marcos&show_icons=true&theme=blue-green)](https://github.com/deevanshuguru/crypto-market-price-prediction)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=deevanshuguru&repo=crypto-market-price-prediction&show_icons=true&theme=blue-green)](https://github.com/deevanshuguru/crypto-market-price-prediction)
 
 
 </div>
