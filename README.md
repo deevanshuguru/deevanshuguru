@@ -1,5 +1,5 @@
 <!-- Greeting -->
-<div style="text-align: center; width: 80%; margin: auto" >
+<div align="center" style="text-align: center; width: 80%; margin: auto" >
 
 # Hello Dev!
 
