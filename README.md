@@ -46,7 +46,6 @@ I **love to connect** with people and would be glad to discuss your ideas and th
 
 <div style="width: 50%">
 
-
 ### 🛠 Tech Stack
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -78,6 +77,7 @@ I **love to connect** with people and would be glad to discuss your ideas and th
 <div style="text-align: center; width: 50%; margin: auto">
 
 ### Credit to
+
 [**SHIELDS.IO**](https://shields.io/) for Beautiful Badges.
 
 ----
