@@ -22,10 +22,10 @@ I **love to connect** with people and would be glad to discuss your ideas and th
 ![](https://github-readme-streak-stats.herokuapp.com/?user=deevanshuguru&theme=dark&hide_border=true)
 
 <p style="width: 100%; display: flex; justify-content: center;align-items: center; gap: 2em">
-  <a href="https://github.com/deevanshuguru">
+  <a href="https://github.com/deevanshuguru" width="50%" style="width: 50%">
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=deevanshuguru&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FA8C00&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
-  <a href="https://github.com/deevanshuguru">
+  <a href="https://github.com/deevanshuguru" width="50%" style="width: 50%">
     <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deevanshuguru&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=20&layout=compact&hide_border=true" />
   </a>
 </p>
